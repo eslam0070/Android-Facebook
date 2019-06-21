@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="facebook_app_id">1090981414426575</string>
+    <string name="fb_login_protocol_scheme">fb1090981414426575</string>
+    <string name="eslam_gamal">Eslam Gamal</string>
+    <string name="eslamgamal_yahoo_com">Eslamgamal@yahoo.com</string>
+
+</resources>
